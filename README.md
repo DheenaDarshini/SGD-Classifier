@@ -17,7 +17,7 @@ To write a program to predict the type of species of the Iris flower using the S
 ```
 /*
 Program to implement the prediction of iris species using SGD Classifier.
-Developed by: Dheena Darshni Karthik Dheepan
+Developed by: Dheena Darshini Karthik Dheepan
 RegisterNumber:  212223240030
 */
 ```
@@ -60,7 +60,7 @@ print(cm)
 ```
 
 ## Output:
-[Output](image.png)
+![Output](image.png)
 
 
 ## Result:
