@@ -60,7 +60,7 @@ print(cm)
 ```
 
 ## Output:
-![Output](image.png)
+[Output](image.png)
 
 
 ## Result:
