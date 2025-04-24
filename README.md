@@ -60,7 +60,14 @@ print(cm)
 ```
 
 ## Output:
-![Output](image.png)
+![Screenshot 2025-04-07 153256](https://github.com/user-attachments/assets/3c6c773f-ec3f-4409-9377-b11022c11dc1)
+
+![Screenshot 2025-04-07 153556](https://github.com/user-attachments/assets/0c5a29ac-2cd1-4b52-a2e2-c70616c5bcc2)
+
+![Screenshot 2025-04-07 154012](https://github.com/user-attachments/assets/fb49207e-720d-41fe-9f71-62dd974f7a16)
+
+![Screenshot 2025-04-07 153715](https://github.com/user-attachments/assets/bfff5ae7-af74-4855-844c-3a321bcfd00b)
+
 
 
 ## Result:
